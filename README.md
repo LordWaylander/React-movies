@@ -8,5 +8,5 @@ C'est la même application que VueJS, j'ai simplement voulu la refaire pour voir
 cd /path/to/app
 npm start
 ```
-[acceuil](https://github.com/LordWaylander/React-movies/blob/main/accueilR.png)
-[coups-de-coeur](https://github.com/LordWaylander/React-movies/blob/main/cc.png)
+![acceuil](https://github.com/LordWaylander/React-movies/blob/main/accueilR.png)
+![coups-de-coeur](https://github.com/LordWaylander/React-movies/blob/main/cc.png)
